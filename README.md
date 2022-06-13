@@ -1,2 +1,2 @@
-# Github pages
-Simply some tests using the github pages with some webpage i wrote in january i guess.
+# Old Animal Game
+an old project i made in 2020.
